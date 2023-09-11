@@ -6,6 +6,8 @@ c Aron Ayub 2023.
 - [Check my Youtube Channel][def3]
 - [I'm on twitter][def2]
 
+- *credit to​ @Indently <- youtube for his video*
+
 <img width="689" alt="image" src="https://github.com/AronAyub/ChatBot/assets/55284959/adec6eed-5367-41e3-af6a-eb6a06c959a1">
  
  - ***In this project I developed a chatbot that learns by go:***
@@ -17,3 +19,4 @@ c Aron Ayub 2023.
 [def]: https://www.linkedin.com/in/aron-ayub/
 [def2]: https://twitter.com/aron_ayub
 [def3]: https://www.youtube.com/@AronAyub/videos
+
