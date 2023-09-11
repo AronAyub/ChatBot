@@ -7,6 +7,30 @@
     {
       "question": "hello",
       "answer": "ski["
+    },
+    {
+      "question": "How are you",
+      "answer": "I am doing well, thank you for asking."
+    },
+    {
+      "question": "do you know liquid",
+      "answer": "Yes, Liquid Intelligent Technologies is a business of Cassava Technologies "
+    },
+    {
+      "question": "what is liquid",
+      "answer": "liquid"
+    },
+    {
+      "question": "liquid ",
+      "answer": "what is liquid"
+    },
+    {
+      "question": "",
+      "answer": "How are yoy"
+    },
+    {
+      "question": "",
+      "answer": ""
     }
   ]
 }
