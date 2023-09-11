@@ -1,7 +1,8 @@
 # Chat-Bot
 c Aron Ayub 2023.
+- fork and enjoy the project !
 
-- [Let connect in LinkiedIn][def]
+- [Let connect on LinkiedIn][def]
 - [Check my Youtube Channel][def3]
 - [I'm on twitter][def2]
 
