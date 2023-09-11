@@ -1,7 +1,12 @@
 {
-
-"questions":[
-    
-]
-
+  "questions": [
+    {
+      "question": "& C:/Users/Ayub704/AppData/Local/Microsoft/WindowsApps/python3.10.exe \"c:/Users/Ayub704/OneDrive - Liquid Intelligent Technologies/Documents/GitHub/ChatBoat/knowledge.py\"",
+      "answer": "hello"
+    },
+    {
+      "question": "hello",
+      "answer": "ski["
+    }
+  ]
 }
