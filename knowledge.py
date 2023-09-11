@@ -1,3 +1,9 @@
+"""c Aron Ayub 2023
+    engaron8@gmail.com
+    Youtube: Aron Ayub
+    LinkiedIn: Aron Ayub
+"""
+
 import json
 from difflib import get_close_matches #allows match best responses
 
