@@ -1,6 +1,6 @@
 # Chat-Bot
 c Aron Ayub 2023.
-- fork and enjoy the project !
+- *Fork and enjoy, remember to follow my Github !*
 
 - [Let connect on LinkiedIn][def]
 - [Check my Youtube Channel][def3]
