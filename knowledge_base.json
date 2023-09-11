@@ -6,7 +6,7 @@
     },
     {
       "question": "hello",
-      "answer": "ski["
+      "answer": "hello to you"
     },
     {
       "question": "How are you",
@@ -17,20 +17,14 @@
       "answer": "Yes, Liquid Intelligent Technologies is a business of Cassava Technologies "
     },
     {
-      "question": "what is liquid",
-      "answer": "liquid"
+      "question": "What solutions do you have ? ",
+      "answer": "Our Solution Scope is quite wide: IoT solutions, Cloud solutions, Connectivity, among others"
     },
     {
-      "question": "liquid ",
-      "answer": "what is liquid"
-    },
-    {
-      "question": "",
-      "answer": "How are yoy"
-    },
-    {
-      "question": "",
-      "answer": ""
+      "question": "what more ? ",
+      "answer": "For IoT Solutions please call +2547-03-909-567"
     }
+
+
   ]
 }
