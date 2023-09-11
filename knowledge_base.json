@@ -13,8 +13,8 @@
       "answer": "I am doing well, thank you for asking."
     },
     {
-      "question": "do you know liquid",
-      "answer": "Yes, Liquid Intelligent Technologies is a business of Cassava Technologies "
+      "question": "do you know Telcos",
+      "answer": "Yes,Telcos focus on telecommunication solutions "
     },
     {
       "question": "What solutions do you have ? ",
@@ -22,23 +22,11 @@
     },
     {
       "question": "what more ? ",
-      "answer": "For IoT Solutions please call +2547-03-909-567"
-    },
-    {
-      "question": "",
-      "answer": ""
+      "answer": "For IoT Solutions please call +1234567890"
     },
     {
       "question": "",
       "answer": "hey"
-    },
-    {
-      "question": "hey to you",
-      "answer": "hey"
-    },
-    {
-      "question": "hey",
-      "answer": "hello"
     }
   ]
 }
